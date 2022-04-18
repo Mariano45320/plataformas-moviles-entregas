@@ -32,7 +32,10 @@ p{
     list-style-type: circle;
 }
 
+strong{
+    border-bottom: 1px solid rgb(255, 255, 255); 
+}
+
 /*/ profe, no llegue a entendi muy bien los siguientes puntos:
 *Agregar padding-left al segundo listado de películas.
 *Agregar margin-top al último elemento del tercer listado de películas.
-*Agregar un borde inferior color blanco a todos los elementos <strong>.(y a este no entendi que tipo de borde quiere)
