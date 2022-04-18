@@ -1,0 +1,38 @@
+*{
+background-color: #222;
+color:#ee6
+}
+
+h1{
+    text-align: center;
+    color: #eee;
+}
+
+h2, h3{
+    color: #eee;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+.the-force{
+    background:#444;
+}
+
+.light-side{
+    color: #66f;
+}
+
+.dark-side{
+    color: #f33;
+}
+
+#og-trilogy{
+    list-style-type: circle;
+}
+
+/*/ profe, no llegue a entendi muy bien los siguientes puntos:
+*Agregar padding-left al segundo listado de películas.
+*Agregar margin-top al último elemento del tercer listado de películas.
+*Agregar un borde inferior color blanco a todos los elementos <strong>.(y a este no entendi que tipo de borde quiere)
